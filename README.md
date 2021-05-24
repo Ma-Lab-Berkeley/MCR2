@@ -1,13 +1,11 @@
 # Learning Diverse and Discriminative Representations via the Principle of Maximal Coding Rate Reduction
-This repository is the official implementation of
+This repository is the official implementation of the following paper,
 
  [ReduNet: A White-box Deep Network from the Principle of Maximizing Rate Reduction](https://arxiv.org/abs/2105.10446) (2021) 
 
-by [Kwan Ho Ryan Chan](https://ryanchankh.github.io)* (UC Berkeley), [Yaodong Yu](https://yaodongyu.github.io/)* (UC Berkeley), [Chong You](https://sites.google.com/view/cyou)* (UC Berkeley), [Haozhi Qi](https://haozhi.io/) (UC Berkeley), [John Wright](http://www.columbia.edu/~jw2966/) (Columbia), and [Yi Ma](http://people.eecs.berkeley.edu/~yima/) (UC Berkeley), and
+by [Kwan Ho Ryan Chan](https://ryanchankh.github.io)* (UC Berkeley), [Yaodong Yu](https://yaodongyu.github.io/)* (UC Berkeley), [Chong You](https://sites.google.com/view/cyou)* (UC Berkeley), [Haozhi Qi](https://haozhi.io/) (UC Berkeley), [John Wright](http://www.columbia.edu/~jw2966/) (Columbia), and [Yi Ma](http://people.eecs.berkeley.edu/~yima/) (UC Berkeley),
 
-[Learning Diverse and Discriminative Representations via the Principle of Maximal Coding Rate Reduction](https://arxiv.org/abs/2006.08558) (2020) 
-
-by [Yaodong Yu](https://yaodongyu.github.io/)* (UC Berkeley), [Kwan Ho Ryan Chan](ryanchankh.github.io)* (UC Berkeley), [Chong You](https://sites.google.com/view/cyou) (UC Berkeley), [Chaobing Song](https://sites.google.com/view/chaobing-song/home) (UC Berkeley) and [Yi Ma](http://people.eecs.berkeley.edu/~yima/) (UC Berkeley).
+which includes the implementations of the Maximal Coding Rate Reduction (**MCR<sup>2</sup>**) objective function part ([**MCR<sup>2</sup>** paper link](https://arxiv.org/abs/2006.08558)).
 
 ## What is Maxmial Coding Rate Reduction? 
 Our goal is to learn a mapping that maps the high-dimensional data that lies in a low-dimensional manifold to low-dimensional subspaces with the following three properties: 
